@@ -1,0 +1,22 @@
+why we use # ?
+    Lines beginning with # are processed by the preprocessor
+    before the program is compiled.
+what is the meaning of preprocessor?
+    The C preprocessor executes before a program is compiled. Some actions it performs are
+    the inclusion of other files in the file being compiled, definition of symbolic constants and
+    macros, conditional compilation of program code and conditional execution of preprocessor
+    directives. Preprocessor directives begin with # and only white-space characters and
+    comments may appear before a preprocessor directive on a line.
+what is the word comiler means?    
+    The compiler translate the C program into machine language-code (also referred to as object code). 
+what is machine language?
+    Any computer can directly understand only its own machine language. Machine language
+    is the “natural language” of a computer and as such is defined by its hardware design.
+expand 'stdio'?
+   standard input and output.
+what is the use of the word main ?
+     Every program in C begins executing at the function main.
+ why we use int?
+     int indicates that in the function we are using an integer.
+ why we use void?
+     The void in parentheses here means that main does not receive any information.
